@@ -9,3 +9,5 @@ v1.1
 #3 - to make merge-conflict - from remote-branch
 
 #4 - change added in v1.1
+
+#5 - added line from local repo after establishing ssh
