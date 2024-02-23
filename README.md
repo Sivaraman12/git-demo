@@ -4,4 +4,4 @@
 
 #2 - modified in remote repo - to be pulled to local
 
-#3 - from main branch - for merge conflict
+#3 - to make merge-conflict - from remote-branch
