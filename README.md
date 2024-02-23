@@ -11,3 +11,5 @@ v1.1
 #4 - change added in v1.1
 
 #5 - added line from local repo after establishing ssh
+
+#6 - added link from remote repo after establishing ssh - to be pulled
