@@ -1,5 +1,7 @@
 # git-demo
 
+v1.0
+
 #1- modified in local repo - to be pushed to remote
 
 #2 - modified in remote repo - to be pulled to local
